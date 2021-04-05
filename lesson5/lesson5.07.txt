@@ -1,0 +1,4 @@
+firm_1 LLC 10000 5000
+firm_2 Ltd 15000 5000
+firm_3 Ltd 30000 40000
+firm_4 LLC 20000 80000
